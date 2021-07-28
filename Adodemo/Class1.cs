@@ -16,10 +16,11 @@ namespace Adodemo
         static void Main(string[] args)
         {
             Console.WriteLine("hey");
+            Console.ReadLine();
         
             
             Console.WriteLine("hello");
-            Console.WriteLine("master branch changes made!!!!!!!!!!");
+            
 
         }
     }
