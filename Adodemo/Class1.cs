@@ -16,6 +16,7 @@ namespace Adodemo
         static void Main(string[] args)
         {
             Console.WriteLine("hey");
+            Console.ReadLine();
         }
     }
 }
