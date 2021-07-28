@@ -17,6 +17,7 @@ namespace Adodemo
         {
             Console.WriteLine("hii");
             Console.WriteLine("hello");
+            Console.WriteLine("hello2");
             //var builder = new ConfigurationBuilder()
             //                    .AddJsonFile("appsettings.json", optional: false);
             //var configuration = builder.Build();
